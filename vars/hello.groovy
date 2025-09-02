@@ -1,3 +1,3 @@
 def call{
-  bat "hello world testing shared library"
+  echo "hello world testing shared library"
 }
